@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 <h1 align="center">Hi 👋, I'm Wang Jie</h1>
-<h3 align="center">A passionate mobile developer from Hangzhou China.</h3>
+<h3 align="center">A passionate mobile developer from Hangzhou China.</h3> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wangjiegulu&show_icons=true&locale=en" alt="wangjiegulu" /></p>
 
